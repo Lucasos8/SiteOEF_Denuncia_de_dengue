@@ -1,0 +1,104 @@
+/* HOME */
+.margemHome{
+  margin: 2%;
+}
+
+.d {
+  height: 50%;
+  width: 50%;
+  float: left;
+}
+
+.dengue {
+  height: 50%;
+  width: 50%;
+  float: left;
+}
+
+.img-d {
+  height: 65%;
+  width: 65%;
+  float: left;
+}
+
+.mosquito {
+  height: 65%;
+  width: 65%;
+  float:left
+}
+
+.Button {
+  height: 25%;
+  width: 20%;
+  float: left;
+}
+
+.btn {
+  height: 25%;
+  width: 20%;
+  float: left;
+}
+/* Sobre nós */
+.margemSobre{
+  margin: 2%;
+}
+
+.flex-container {
+  display: flex;
+  align-content: space-around;
+  }
+.sobreNos {
+  height: 50%;
+  width: 50%;
+}
+
+.mapa {
+  height: 50%;
+  width: 50%;
+  }
+  /* Cadastro*/
+ .margemCadastro{
+  margin: 2%;
+ }
+  
+.form {
+  text-align: center;
+  position: center;
+  width:100%;
+  }
+
+::label for { 
+  color: green;
+}
+
+.div-btn {
+  height: 56%;
+  width: 56%;
+  float: right;
+}
+
+input[type="text"]::placeholder {
+  color: darkgreen;
+  opacity: 1;
+}
+
+input {
+
+  border-start-start-radius: 40px;
+  border-start-end-radius: 40px;
+  border-end-start-radius: 40px;
+  border-end-end-radius: 40px;
+  width: 30%;
+  box-shadow: 0px 0px 30px 128px rgba(140, 226, 169, 0.082);
+}
+  /* Mapa*/
+.margemMapa{
+  width: 98%; 
+  height: 450px;
+}
+
+.btnMapa{
+  height: 56%;
+  width: 56%;
+  float: right; 
+}
